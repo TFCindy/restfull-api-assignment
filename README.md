@@ -1,7 +1,6 @@
-#### MUNEZERO Cindy
-#### 27120
-#### Software Engineeering
-#### Adventist University of Central Africa
+### Names: MUNEZERO Cindy
+### ID: 27120
+### Departmne: Software Engineeering
 
 # RESTful API Assignment 
 
