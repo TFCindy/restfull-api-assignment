@@ -1,6 +1,6 @@
 ### Names: MUNEZERO Cindy
 ### ID: 27120
-### Departmne: Software Engineeering
+### Department: Software Engineering
 
 # RESTful API Assignment 
 
@@ -16,7 +16,25 @@ This repository contains 6 separate Spring Boot projects for the RESTful API ass
 6. **Bonus:** `bonus-user-api/` - User Profile API
 
 ## How to Run Each Project
-Each project has its own readme containig all its APIs and specifying how it runs.
+Each project has its own README containing all its APIs and specifying how to run it.
 
+## Testing Evidence
+Each project includes:
+- **Postman screenshots** showing successful API testing
+- **Exported Postman collections** for all endpoints
+- **Complete test coverage** of all required functionalities
 
+## Screenshots Location
+All API test screenshots are available in each project's `/screenshots` folder:
+- `question1-library-api/screenshots/` - 9 screenshots
+- `question2-student-api/screenshots/` - 11 screenshots  
+- `question3-menu-api/screenshots/` - 13 screenshots
+- `question4-ecommerce-api/screenshots/` - 16 screenshots
+- `question5-task-api/screenshots/` - 17 screenshots
+- `bonus-user-api/screenshots/` - 18 screenshots
 
+## Postman Collections
+Exported Postman collections are available in each project's `/postman-collection` folder for easy testing.
+
+## Submission
+All projects are complete, tested, and ready for grading.
