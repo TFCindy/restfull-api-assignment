@@ -12,9 +12,5 @@ This repository contains 6 separate Spring Boot projects for the RESTful API ass
 6. **Bonus:** `bonus-user-api/` - User Profile API
 
 ## How to Run Each Project
-Each project has its own readme containig all its APIs.
+Each project has its own readme containig all its APIs and specifying how it runs.
 
-Navigate to each project folder and run:
-```bash
-cd question1-library-api
-mvn spring-boot:run
