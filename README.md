@@ -8,12 +8,12 @@ This repository contains 6 separate Spring Boot projects for the RESTful API ass
 
 ## Projects Structure
 
-1. **Question 1:** `question1-library-api/` - Library Book Management API
-2. **Question 2:** `question2-student-api/` - Student Registration API  
-3. **Question 3:** `question3-menu-api/` - Restaurant Menu API
-4. **Question 4:** `question4-ecommerce-api/` - E-Commerce Product API
-5. **Question 5:** `question5-task-api/` - Task Management API
-6. **Bonus:** `bonus-user-api/` - User Profile API
+1. **[Question 1: Library Book Management API](question1LibraryApi/)** - Library Book Management API
+2. **[Question 2: Student Registration API](question2StudentApi/)** - Student Registration API  
+3. **[Question 3: Restaurant Menu API](question3MenuApi/)** - Restaurant Menu API
+4. **[Question 4: E-Commerce Product API](question4EcommerceApi/)** - E-Commerce Product API
+5. **[Question 5: Task Management API](question5TaskApi/)** - Task Management API
+6. **[Bonus: User Profile API](bonusUserApi/)** - User Profile API
 
 ## How to Run Each Project
 Each project has its own README containing all its APIs and specifying how to run it.
@@ -27,11 +27,11 @@ Each project includes:
 ## Screenshots Location
 All API test screenshots are available in each project's `/screenshots` folder:
 - `question1-library-api/screenshots/` - 9 screenshots
-- `question2-student-api/screenshots/` - 11 screenshots  
-- `question3-menu-api/screenshots/` - 13 screenshots
-- `question4-ecommerce-api/screenshots/` - 16 screenshots
-- `question5-task-api/screenshots/` - 17 screenshots
-- `bonus-user-api/screenshots/` - 18 screenshots
+- `question2-student-api/screenshots/` - 8 screenshots  
+- `question3-menu-api/screenshots/` - 12 screenshots
+- `question4-ecommerce-api/screenshots/` - 15 screenshots
+- `question5-task-api/screenshots/` - 16 screenshots
+- `bonus-user-api/screenshots/` - 17 screenshots
 
 ## Postman Collections
 Exported Postman collections are available in each project's `/postman-collection` folder for easy testing.
