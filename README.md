@@ -26,15 +26,21 @@ Each project includes:
 
 ## Screenshots Location
 All API test screenshots are available in each project's `/screenshots` folder:
-- `question1-library-api/screenshots/` - 9 screenshots
-- `question2-student-api/screenshots/` - 8 screenshots  
-- `question3-menu-api/screenshots/` - 12 screenshots
-- `question4-ecommerce-api/screenshots/` - 15 screenshots
-- `question5-task-api/screenshots/` - 16 screenshots
-- `bonus-user-api/screenshots/` - 17 screenshots
+- [Question 1 Screenshots](question1LibraryApi/screenshots/) - 9 screenshots
+- [Question 2 Screenshots](question2StudentApi/screenshots/) - 8 screenshots  
+- [Question 3 Screenshots](question3MenuApi/screenshots/) - 12 screenshots
+- [Question 4 Screenshots](question4EcommerceApi/screenshots/) - 15 screenshots
+- [Question 5 Screenshots](question5TaskApi/screenshots/) - 16 screenshots
+- [Bonus Question Screenshots](bonusUserApi/screenshots/) - 17 screenshots
 
 ## Postman Collections
 Exported Postman collections are available in each project's `/postman-collection` folder for easy testing.
+- [Question 1 Postman Collection](question1LibraryApi/postman-collection/)
+- [Question 2 Postman Collection](question2StudentApi/postman-collection/)
+- [Question 3 Postman Collection](question3MenuApi/postman-collection/)
+- [Question 4 Postman Collection](question4EcommerceApi/postman-collection/)
+- [Question 5 Postman Collection](question5TaskApi/postman-collection/)
+- [Bonus Postman Collection](bonusUserApi/postman-collection/)
 
 ## Submission
 All projects are complete, tested, and ready for grading.
